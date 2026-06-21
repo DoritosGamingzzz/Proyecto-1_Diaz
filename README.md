@@ -1,4 +1,4 @@
-Proyecto-1
+# Proyecto-1
 
 ## 👤 Datos del Alumno y Docente
 * **Alumno:** Tiziano Diaz Rojas
